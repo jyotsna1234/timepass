@@ -1,0 +1,982 @@
+8
+
+dir
+0
+https://zen-coding.googlecode.com/svn/trunk/Zen-HTML.tmbundle/Snippets
+https://zen-coding.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+legend.tmSnippet
+file
+
+
+
+add
+
+meta:utf.tmSnippet
+file
+
+
+
+add
+
+link:css.tmSnippet
+file
+
+
+
+add
+
+noscript.tmSnippet
+file
+
+
+
+add
+
+input:hidden.tmSnippet
+file
+
+
+
+add
+
+input:radio.tmSnippet
+file
+
+
+
+add
+
+h1.tmSnippet
+file
+
+
+
+add
+
+h5.tmSnippet
+file
+
+
+
+add
+
+input:submit.tmSnippet
+file
+
+
+
+add
+
+h5:selected.tmSnippet
+file
+
+
+
+add
+
+wrapper.tmSnippet
+file
+
+
+
+add
+
+attr:id.tmSnippet
+file
+
+
+
+add
+
+b.tmSnippet
+file
+
+
+
+add
+
+html:strict-xx.tmSnippet
+file
+
+
+
+add
+
+thead.tmSnippet
+file
+
+
+
+add
+
+tr.tmSnippet
+file
+
+
+
+add
+
+input:file.tmSnippet
+file
+
+
+
+add
+
+select+.tmSnippet
+file
+
+
+
+add
+
+option 2.tmSnippet
+file
+
+
+
+add
+
+caption.tmSnippet
+file
+
+
+
+add
+
+samp.tmSnippet
+file
+
+
+
+add
+
+span@.tmSnippet
+file
+
+
+
+add
+
+em.tmSnippet
+file
+
+
+
+add
+
+form.tmSnippet
+file
+
+
+
+add
+
+object.tmSnippet
+file
+
+
+
+add
+
+dfn.tmSnippet
+file
+
+
+
+add
+
+strong.tmSnippet
+file
+
+
+
+add
+
+strong:selected.tmSnippet
+file
+
+
+
+add
+
+select.tmSnippet
+file
+
+
+
+add
+
+address.tmSnippet
+file
+
+
+
+add
+
+meta.tmSnippet
+file
+
+
+
+add
+
+return between.tmSnippet
+file
+
+
+
+add
+
+tfoot.tmSnippet
+file
+
+
+
+add
+
+input:text.tmSnippet
+file
+
+
+
+add
+
+td:next.tmSnippet
+file
+
+
+
+add
+
+br.tmSnippet
+file
+
+
+
+add
+
+del.tmSnippet
+file
+
+
+
+add
+
+acronym.tmSnippet
+file
+
+
+
+add
+
+h2.tmSnippet
+file
+
+
+
+add
+
+map.tmSnippet
+file
+
+
+
+add
+
+h3:selected.tmSnippet
+file
+
+
+
+add
+
+h6.tmSnippet
+file
+
+
+
+add
+
+if !IE.tmSnippet
+file
+
+
+
+add
+
+div.tmSnippet
+file
+
+
+
+add
+
+a:selected.tmSnippet
+file
+
+
+
+add
+
+input:check.tmSnippet
+file
+
+
+
+add
+
+var.tmSnippet
+file
+
+
+
+add
+
+sub.tmSnippet
+file
+
+
+
+add
+
+colgroup.tmSnippet
+file
+
+
+
+add
+
+i:selected.tmSnippet
+file
+
+
+
+add
+
+body.tmSnippet
+file
+
+
+
+add
+
+style.tmSnippet
+file
+
+
+
+add
+
+option:next.tmSnippet
+file
+
+
+
+add
+
+script.tmSnippet
+file
+
+
+
+add
+
+html:trans.tmSnippet
+file
+
+
+
+add
+
+dl+.tmSnippet
+file
+
+
+
+add
+
+input:password.tmSnippet
+file
+
+
+
+add
+
+h6:selected.tmSnippet
+file
+
+
+
+add
+
+p 2.tmSnippet
+file
+
+
+
+add
+
+html:5.tmSnippet
+file
+
+
+
+add
+
+meta:compat.tmSnippet
+file
+
+
+
+add
+
+pre.tmSnippet
+file
+
+
+
+add
+
+dd.tmSnippet
+file
+
+
+
+add
+
+html:strict.tmSnippet
+file
+
+
+
+add
+
+link:touch.tmSnippet
+file
+
+
+
+add
+
+dl.tmSnippet
+file
+
+
+
+add
+
+fieldset.tmSnippet
+file
+
+
+
+add
+
+param.tmSnippet
+file
+
+
+
+add
+
+big.tmSnippet
+file
+
+
+
+add
+
+table+.tmSnippet
+file
+
+
+
+add
+
+td.tmSnippet
+file
+
+
+
+add
+
+dt.tmSnippet
+file
+
+
+
+add
+
+link:atom.tmSnippet
+file
+
+
+
+add
+
+area.tmSnippet
+file
+
+
+
+add
+
+hr.tmSnippet
+file
+
+
+
+add
+
+h3.tmSnippet
+file
+
+
+
+add
+
+h1:selected.tmSnippet
+file
+
+
+
+add
+
+th.tmSnippet
+file
+
+
+
+add
+
+img.tmSnippet
+file
+
+
+
+add
+
+col.tmSnippet
+file
+
+
+
+add
+
+link:rss.tmSnippet
+file
+
+
+
+add
+
+div#.tmSnippet
+file
+
+
+
+add
+
+table.tmSnippet
+file
+
+
+
+add
+
+tt.tmSnippet
+file
+
+
+
+add
+
+li:next.tmSnippet
+file
+
+
+
+add
+
+span.tmSnippet
+file
+
+
+
+add
+
+head.tmSnippet
+file
+
+
+
+add
+
+bdo.tmSnippet
+file
+
+
+
+add
+
+script:src.tmSnippet
+file
+
+
+
+add
+
+abbr.tmSnippet
+file
+
+
+
+add
+
+small.tmSnippet
+file
+
+
+
+add
+
+ol.tmSnippet
+file
+
+
+
+add
+
+html:trans-x.tmSnippet
+file
+
+
+
+add
+
+h4:selected.tmSnippet
+file
+
+
+
+add
+
+label.tmSnippet
+file
+
+
+
+add
+
+title.tmSnippet
+file
+
+
+
+add
+
+kbd 2.tmSnippet
+file
+
+
+
+add
+
+b:selected.tmSnippet
+file
+
+
+
+add
+
+input:button.tmSnippet
+file
+
+
+
+add
+
+input.tmSnippet
+file
+
+
+
+add
+
+tr+.tmSnippet
+file
+
+
+
+add
+
+nbsp.tmSnippet
+file
+
+
+
+add
+
+span#.tmSnippet
+file
+
+
+
+add
+
+li.tmSnippet
+file
+
+
+
+add
+
+em:selected.tmSnippet
+file
+
+
+
+add
+
+html.tmSnippet
+file
+
+
+
+add
+
+blockquote.tmSnippet
+file
+
+
+
+add
+
+h4.tmSnippet
+file
+
+
+
+add
+
+if IE.tmSnippet
+file
+
+
+
+add
+
+textarea.tmSnippet
+file
+
+
+
+add
+
+a:mail.tmSnippet
+file
+
+
+
+add
+
+a.tmSnippet
+file
+
+
+
+add
+
+tbody.tmSnippet
+file
+
+
+
+add
+
+a:link.tmSnippet
+file
+
+
+
+add
+
+i.tmSnippet
+file
+
+
+
+add
+
+p:select.tmSnippet
+file
+
+
+
+add
+
+link.tmSnippet
+file
+
+
+
+add
+
+meta:win.tmSnippet
+file
+
+
+
+add
+
+q.tmSnippet
+file
+
+
+
+add
+
+iframe.tmSnippet
+file
+
+
+
+add
+
+sup.tmSnippet
+file
+
+
+
+add
+
+code.tmSnippet
+file
+
+
+
+add
+
+base.tmSnippet
+file
+
+
+
+add
+
+button.tmSnippet
+file
+
+
+
+add
+
+h2:selected.tmSnippet
+file
+
+
+
+add
+
+optgroup.tmSnippet
+file
+
+
+
+add
+
+link:favico.tmSnippet
+file
+
+
+
+add
+
+html:xml.tmSnippet
+file
+
+
+
+add
+
+ul.tmSnippet
+file
+
+
+
+add
+
+div@.tmSnippet
+file
+
+
+
+add
+
+cite.tmSnippet
+file
+
+
+
+add
+
+ol+.tmSnippet
+file
+
+
+
+add
+
+attr:style.tmSnippet
+file
+
+
+
+add
+
+ins.tmSnippet
+file
+
+
+
+add
+
+attr:class.tmSnippet
+file
+
+
+
+add
+
+ul+.tmSnippet
+file
+
+
+
+add
+
+input:image.tmSnippet
+file
+
+
+
+add
+
+html:strict-x.tmSnippet
+file
+
+
+
+add
+

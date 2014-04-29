@@ -1,0 +1,65 @@
+8
+
+dir
+0
+https://zen-coding.googlecode.com/svn/trunk/Zen-HTML.tmbundle
+https://zen-coding.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+Commands
+dir
+
+
+
+add
+
+Preferences
+dir
+
+
+
+add
+
+info.plist
+file
+
+
+
+add
+
+Snippets
+dir
+
+
+
+add
+
+Support
+dir
+
+
+
+add
+
+Syntaxes
+dir
+
+
+
+add
+
+Templates
+dir
+
+
+
+add
+

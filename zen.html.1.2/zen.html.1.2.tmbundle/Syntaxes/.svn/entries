@@ -1,0 +1,23 @@
+8
+
+dir
+0
+https://zen-coding.googlecode.com/svn/trunk/Zen-HTML.tmbundle/Syntaxes
+https://zen-coding.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+HTML-zen.tmLanguage
+file
+
+
+
+add
+

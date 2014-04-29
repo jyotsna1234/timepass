@@ -1,0 +1,30 @@
+8
+
+dir
+0
+https://zen-coding.googlecode.com/svn/trunk/Zen-HTML.tmbundle/Templates/HTML%204_01%20Strict.tmTemplate
+https://zen-coding.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+info.plist
+file
+
+
+
+add
+
+index.htm
+file
+
+
+
+add
+

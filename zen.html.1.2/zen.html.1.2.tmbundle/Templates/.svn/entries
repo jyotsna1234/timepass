@@ -1,0 +1,51 @@
+8
+
+dir
+0
+https://zen-coding.googlecode.com/svn/trunk/Zen-HTML.tmbundle/Templates
+https://zen-coding.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+XHTML 1_0 Transitional.tmTemplate
+dir
+
+
+
+add
+
+XHTML 1_0 Strict.tmTemplate
+dir
+
+
+
+add
+
+XHTML 1_1 Strict.tmTemplate
+dir
+
+
+
+add
+
+HTML 4_01 Transitional.tmTemplate
+dir
+
+
+
+add
+
+HTML 4_01 Strict.tmTemplate
+dir
+
+
+
+add
+
